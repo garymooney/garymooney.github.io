@@ -2,6 +2,8 @@
 title: Research
 layout: page
 ---
+I'm currently a quantum computing postdoc working in the IBM Quantum Network Hub at the University of Melbourne, Australia. My work focusses on the compilation process of mapping a problem onto a quantum computer to be solved in an optimised way. My work also focusses on the generation and detection of entanglement within quantum devices.
+
 ![AQC Embedding Image](/assets/images/aqc_graphic-topdown.png)
 
 <h2>Media Articles:</h2>

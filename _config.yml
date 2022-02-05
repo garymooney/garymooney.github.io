@@ -1,9 +1,9 @@
 # main text of home
 name: Gary Mooney
-bio: Quantum computing researcher and game developer
+bio: <b>Hi,</b> I'm a quantum computing researcher and game developer. I'm passionate about learning how to learn.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: <b>Hi,</b> I'm a quantum computing researcher and game developer. I'm passionate about learning how to learn.
 
 # if it's an external image, update below for true
 # better with square images
@@ -15,7 +15,7 @@ dark-theme: true
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
@@ -41,23 +41,17 @@ github: garymooney
 email: gary.mooney4444@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  garymooney:
+    name: Gary Mooney
+    bio: I'm a quantum computing researcher and game developer. I'm passionate about learning how to learn.
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    picture: assets/images/gary-dp.png
+    twitter: _garymooney
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
