@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Person who travels the world eating noodles
+name: Gary Mooney
+bio: Quantum computing researcher and game developer
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/gary-dp.png
 
 # your site color theme, false to light theme
 dark-theme: true
@@ -19,7 +19,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://garymooney.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -33,12 +33,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+#facebook: myfacebook
+twitter: _garymooney
+instagram: _garymooney
+linkedin: gary-mooney-346687b0/
+github: garymooney
+email: gary.mooney4444@gmail.com
 
 authors:
   johndoe:
