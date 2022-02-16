@@ -17,6 +17,6 @@ externalLink: false
 
 <p>Carnival Madness is a roguelike puzzle game set in a cursed carnival.</p> 
 
-<p>It was a fun experimental project that I worked on with my friends Jordan Atwill and Francis De Luca.</p>
+<p>It was a fun experimental game that I worked on with my friends Jordan Atwill and Francis De Luca.</p>
 
 It's available for free on itch.io <https://garymooney.itch.io/carnival-madness>
