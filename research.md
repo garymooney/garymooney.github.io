@@ -2,7 +2,7 @@
 title: Research
 layout: page
 ---
-I've recently submitted my PhD, of which focussed mainly on two areas of quantum computing: optimising the process of mapping problems onto quantum computers, and the generation and detection of entanglement within quantum devices. I'm now a postdoc at the University of Melbourne as part of the [IBM Quantum Network Hub](https://www.unimelb.edu.au/quantumhub), working on quantum computing approaches to combinatorial optimisation problems in the automotive industry.
+I've recently completed my PhD, of which focussed mainly on two areas of quantum computing: optimising the process of mapping problems onto quantum computers, and the generation and detection of entanglement within quantum devices. I'm now a research fellow at the University of Melbourne as part of the [IBM Quantum Network Hub](https://www.unimelb.edu.au/quantumhub), collaboratively working with Ford on quantum computing approaches to combinatorial optimisation problems in the automotive industry.
 
 ![AQC Embedding Image](/assets/images/aqc_graphic-topdown.png)
 
