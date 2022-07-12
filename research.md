@@ -9,6 +9,9 @@ I've recently submitted my PhD, of which focussed mainly on two areas of quantum
 <h2>Media Articles:</h2>
 * Gregory White, Gary Mooney, Charles Hill, Lloyd Hollenberg. ["Generating whole-processor entanglement on 27- and 65-qubit quantum systems"](https://research.ibm.com/blog/whole-device-entanglement), IBM Quantum Blog (2021)
 
+<h2>PhD Thesis:</h2>
+* Gary J Mooney. ["Entanglement in superconducting quantum devices and improving quantum circuit compilation"](https://minerva-access.unimelb.edu.au/items/a7ae6399-00a8-4082-a2b9-b4858bf246f7?fbclid=IwAR1j8c9-rBzkhYxOCF2xZpVk8WJea3t8u-if7VFj8AS_8FCHwCCqKPQ1cFo), School of Physics, The University of Melbourne (2021)
+
 <h2>Papers:</h2>
 
 * Gary J Mooney, Gregory A L White, Charles D Hill, and Lloyd C L Hollenberg. ["Whole-device entanglement in a 65-qubit superconducting quantum computer"](https://onlinelibrary.wiley.com/doi/10.1002/qute.202100061), Advanced Quantum Technologies (2021)
