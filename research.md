@@ -2,9 +2,20 @@
 title: Research
 layout: page
 ---
-I've recently completed my PhD, of which focussed mainly on two areas of quantum computing: optimising the process of mapping problems onto quantum computers, and the generation and detection of entanglement within quantum devices. I'm now a research fellow at the University of Melbourne as part of the [IBM Quantum Network Hub](https://www.unimelb.edu.au/quantumhub), collaboratively working with Ford on quantum computing approaches to combinatorial optimisation problems in the automotive industry.
+I've recently completed my PhD focusing on three different areas of quantum computing: benchmarking current IBM Quantum devices by generating and measuring quantum entanglement, optimising the process of mapping problems onto noisy near-term quantum devices, and exploring ways to decrease the quantum resource costs of large-scale universal fault-tolerant quantum computers. I'm now a research fellow at the University of Melbourne as part of the [IBM Quantum Network Hub](https://www.unimelb.edu.au/quantumhub), collaboratively working with Ford on quantum computing approaches to combinatorial optimisation problems in the automotive industry.
 
-![AQC Embedding Image](/assets/images/aqc_graphic-topdown.png)
+<p>
+<center>
+<figure>
+  <img src="/assets/images/aqc_graphic-topdown.png" alt="Trulli" style="max-width: 60%;">
+</figure>
+</center>
+</p>
+<p>
+<center>
+<b>Fig.</b> My submission to a <a href="https://www.cqc2t.org/">CQC2T</a> graphic competition. It's a depiction of something called minor-embedding of a complete graph in a quantum annealing device with nearest-neighbour couplings. The aim is to colour clusters of connected nodes such that every coloured cluster is connected to every other coloured cluster while using as few nodes as possible. This is an optimal embedding found using a custom simulated annealing algorithm coded during my masters degree. The image was made using particle systems in Unity.
+</center>
+</p>
 
 <h2>Media Articles:</h2>
 * Gregory White, Gary Mooney, Charles Hill, Lloyd Hollenberg. ["Generating whole-processor entanglement on 27- and 65-qubit quantum systems"](https://research.ibm.com/blog/whole-device-entanglement), IBM Quantum Blog (2021)

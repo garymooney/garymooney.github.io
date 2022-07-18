@@ -19,15 +19,11 @@ Our team's project for the IBM [Qiskit Melbourne 2022 Hackathon](https://github.
 
 <p>Quantum computing is notorious for being unintuitive and difficult to imagine. Our project attempts to create some kind of connection between a human observer and the complex workings of quantum computation.</p>
 
-We made a python library that can directly convert your qiskit quantum circuits into music videos.
-
-
+We made a python library that can directly convert qiskit quantum circuits into music videos.  
+  
+Samples:  
+[Videos](https://github.com/garymooney/expressing-quantum-computation-through-generated-art/tree/main/Sample%20Videos)  
+[MIDIs](https://github.com/garymooney/expressing-quantum-computation-through-generated-art/tree/main/Sample%20MIDIs)  
+[MP3s](https://github.com/garymooney/expressing-quantum-computation-through-generated-art/tree/main/Sample%20MP3s)  
+  
 More info on github: <https://github.com/garymooney/expressing-quantum-computation-through-generated-art>
-
-
-Sample videos:  
-[Grover's algorithm for C Major](https://github.com/garymooney/expressing-quantum-computation-through-generated-art/blob/main/grover_Cmaj/grover_Cmaj.avi)  
-[Grover's algorithm for C Major with noise](https://github.com/garymooney/expressing-quantum-computation-through-generated-art/blob/main/grover_Cmaj_noisy/grover_Cmaj_noisy.avi)  
-[Happy B'day](https://github.com/garymooney/expressing-quantum-computation-through-generated-art/blob/main/happy_bday/happy_bday.avi)  
-[Unhappy B'day](https://github.com/garymooney/expressing-quantum-computation-through-generated-art/blob/main/unhappy_bday/unhappy_bday.avi)  
-[GHZer with noise](https://github.com/garymooney/expressing-quantum-computation-through-generated-art/blob/main/ghzer_noise/ghzer_noise.avi)
