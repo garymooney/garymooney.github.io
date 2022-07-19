@@ -22,8 +22,8 @@ Our team's project for the IBM [Qiskit Melbourne 2022 Hackathon](https://github.
 We made a python library that can directly convert qiskit quantum circuits into music videos.  
   
 Samples:  
-[Videos](https://github.com/garymooney/expressing-quantum-computation-through-generated-art/tree/main/Sample%20Videos)  
-[MIDIs](https://github.com/garymooney/expressing-quantum-computation-through-generated-art/tree/main/Sample%20MIDIs)  
-[MP3s](https://github.com/garymooney/expressing-quantum-computation-through-generated-art/tree/main/Sample%20MP3s)  
+[Videos](https://github.com/garymooney/quantum-music-videos/tree/main/Sample%20Videos)  
+[MIDIs](https://github.com/garymooney/quantum-music-videos/tree/main/Sample%20MIDIs)  
+[MP3s](https://github.com/garymooney/quantum-music-videos/tree/main/Sample%20MP3s)  
   
-More info on github: <https://github.com/garymooney/expressing-quantum-computation-through-generated-art>
+More info on github: <https://github.com/garymooney/quantum-music-videos>
