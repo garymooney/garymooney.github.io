@@ -19,7 +19,7 @@ qMuVi is a python library that can be used by your qiskit project to convert qua
 
 Quantum computing is notorious for being unintuitive and difficult to imagine. This tool attempts to create some kind of connection between a human observer and the complex workings of quantum computation. By transforming quantum circuits into music videos, it allows you to "hear" and "see" how a quantum state evolves as it is processed by a quantum algorithm.  
 
-Check this [Showcase Video](https://github.com/garymooney/qmuvi/blob/main/qMuVi_demo.mp4) out!
+Check out our showcase [video](https://github.com/garymooney/qmuvi/blob/main/qMuVi_demo.mp4) highlighting qMuVi's features.
 
 <img style="display: block; margin-left: auto; margin-right: auto;" src="/assets/images/qiskit-hackathon-melbourne-2022-winners.png" width="80%">
 
