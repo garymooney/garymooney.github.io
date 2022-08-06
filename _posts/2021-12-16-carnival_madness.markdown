@@ -1,5 +1,5 @@
 ---
-title: "Game: Carnival Madness"
+title: "Carnival Madness: Indie Game"
 layout: post
 date: 2021-12-16 23:00
 tag: game
