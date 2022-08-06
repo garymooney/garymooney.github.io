@@ -21,7 +21,7 @@ Quantum computing is notorious for being unintuitive and difficult to imagine. T
 
 Check this [Showcase Video](https://github.com/garymooney/qmuvi/blob/main/qMuVi_demo.mp4) out!
 
-<img style="display:block; margin-left: auto; margin-right: auto;" src="/assets/images/qiskit-hackathon-melbourne-2022-winners.png" width="80%">
+<img style="display: block; margin-left: auto; margin-right: auto;" src="/assets/images/qiskit-hackathon-melbourne-2022-winners.png" width="80%">
 
 qMuVi was originally created for the [IBM Qiskit Hackathon Melbourne 2022](https://github.com/quantum-melbourne/qiskit-hackathon-22). It won first place by the judges and also won the community vote. From left to right, our team was Yang Yang, myself (team leader), Harish Vallury, and Gan Yu Pin.
 
