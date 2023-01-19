@@ -1,9 +1,9 @@
 # main text of home
 name: Gary Mooney
-bio: <b>Hi</b>, welcome to my page. I'm a quantum computing researcher and game developer who loves climbing rocks.
+bio: Hello and welcome! I'm Gary, a quantum computing researcher and game developer who likes to climb rocks.
 
 # twitter summary info
-description: <b>Hi</b>, welcome to my page. I'm a quantum computing researcher and game developer who loves climbing rocks.
+description: Hello and welcome! I'm Gary, a quantum computing researcher and game developer who likes to climb rocks.
 
 # if it's an external image, update below for true
 # better with square images
@@ -43,7 +43,7 @@ email: gary.mooney4444@gmail.com
 authors:
   garymooney:
     name: Gary Mooney
-    bio: I'm a quantum computing researcher and game developer. I'm passionate about learning how to learn.
+    bio: I'm Gary, a quantum computing researcher and game developer who likes to climb rocks.
     external-image: false
     picture: assets/images/gary-dp.png
     twitter: _garymooney
