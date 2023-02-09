@@ -20,6 +20,7 @@ I've recently completed my PhD focusing on three different areas of quantum comp
 <h2>Media Articles:</h2>
 * Robert Davis and Desiree Vogt-Lee ["Turning Quantum States into Music at Australia’s First Ever Qiskit Hackathon"](https://medium.com/qiskit/turning-quantum-states-into-music-at-australias-first-ever-qiskit-hackathon-25da7f09d226), IBM Qiskit Blog (2022)
 * Gregory White, Gary Mooney, Charles Hill, Lloyd Hollenberg. ["Generating whole-processor entanglement on 27- and 65-qubit quantum systems"](https://research.ibm.com/blog/whole-device-entanglement), IBM Research Blog (2021)
+* Daryl Holland. ["So, you want to work in Quantum Computing"](https://pursuit.unimelb.edu.au/articles/so-you-want-to-work-in-quantum-computing), Pursuit - University of Melbourne (2018)
 
 <h2>PhD Thesis:</h2>
 * Gary Mooney. ["Entanglement in superconducting quantum devices and improving quantum circuit compilation"](https://minerva-access.unimelb.edu.au/items/a7ae6399-00a8-4082-a2b9-b4858bf246f7?fbclid=IwAR1j8c9-rBzkhYxOCF2xZpVk8WJea3t8u-if7VFj8AS_8FCHwCCqKPQ1cFo), School of Physics, The University of Melbourne (2021)
