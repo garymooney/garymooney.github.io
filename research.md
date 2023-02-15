@@ -13,7 +13,7 @@ I've recently completed my PhD focusing on three different areas of quantum comp
 </p>
 <p>
 <center>
-<b>Fig.</b> My submission to a <a href="https://www.cqc2t.org/">CQC2T</a> graphic competition. It's a depiction of something called minor-embedding of a complete graph in a quantum annealing device with nearest-neighbour couplings. The aim is to colour clusters of connected nodes such that every coloured cluster is connected to every other coloured cluster while using as few nodes as possible. This is an optimal embedding found using a custom simulated annealing algorithm coded during my masters degree. The image was made using particle systems in Unity.
+<b>Fig.</b> My submission to a <a href="https://www.cqc2t.org/">CQC2T</a> graphic competition. It's a depiction of something called minor-embedding of a complete graph in a quantum annealing device with nearest-neighbour couplings. The aim is to colour clusters of connected nodes such that every coloured cluster is connected to every other coloured cluster while using as few nodes as possible. This is an optimal embedding found using a modified simulated annealing algorithm coded during my masters degree. The image was made using Visual Effect Graph's particle systems in Unity.
 </center>
 </p>
 
