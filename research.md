@@ -2,7 +2,7 @@
 title: Research
 layout: page
 ---
-I've recently completed my PhD focusing on three different areas of quantum computing: benchmarking current IBM Quantum devices by generating and measuring quantum entanglement, optimising the process of mapping problems onto noisy near-term quantum devices, and exploring ways to decrease the quantum resource costs of large-scale universal fault-tolerant quantum computers. I'm now a research fellow at the University of Melbourne as part of the [IBM Quantum Network Hub](https://www.unimelb.edu.au/quantumhub), collaboratively working with Ford on quantum computing approaches to combinatorial optimisation problems in the automotive industry.
+I am a recent PhD graduate with a focus on three areas of quantum computing: benchmarking current IBM Quantum devices by generating and measuring quantum entanglement, optimizing the process of mapping problems onto noisy near-term quantum devices, and exploring ways to decrease the quantum resource costs of large-scale universal fault-tolerant quantum computers. As a research fellow at the University of Melbourne, I am now part of the IBM Quantum Network Hub, where I collaborate with Ford on quantum computing approaches to combinatorial optimization problems in the automotive industry.
 
 <p>
 <center>
