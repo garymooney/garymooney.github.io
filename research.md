@@ -13,7 +13,7 @@ I've recently completed my PhD focusing on three different areas of quantum comp
 </p>
 <p>
 <center>
-<b>Fig.</b> My submission to a <a href="https://www.cqc2t.org/">CQC2T</a> graphic competition. It's a depiction of something called minor-embedding of a complete graph in a quantum annealing device with nearest-neighbour couplings. The aim is to colour clusters of connected nodes such that every coloured cluster is connected to every other coloured cluster while using as few nodes as possible. This is an optimal embedding found using a modified simulated annealing algorithm coded during my masters degree. The image was made using Visual Effect Graph's particle systems in Unity.
+<b>Fig.</b> "Optimal embedding of a complete graph onto a quantum annealing architecture with nearest-neighbour couplings," depicted through my submission to the <a href="https://www.cqc2t.org/">CQC2T</a> Quantum Graphics Competition (2018). The image showcases a modified simulated annealing algorithm I coded during my masters degree, which uses Visual Effect Graph's particle systems in Unity to represent clusters of connected nodes. The goal of this optimization problem is to color these clusters so that every colored cluster is connected to every other colored cluster, while using as few nodes as possible.
 </center>
 </p>
 
@@ -23,7 +23,7 @@ I've recently completed my PhD focusing on three different areas of quantum comp
 * Daryl Holland. ["So, you want to work in Quantum Computing"](https://pursuit.unimelb.edu.au/articles/so-you-want-to-work-in-quantum-computing), Pursuit - University of Melbourne (2018)
 
 <h2>PhD Thesis:</h2>
-* Gary Mooney. ["Entanglement in superconducting quantum devices and improving quantum circuit compilation"](https://minerva-access.unimelb.edu.au/items/a7ae6399-00a8-4082-a2b9-b4858bf246f7?fbclid=IwAR1j8c9-rBzkhYxOCF2xZpVk8WJea3t8u-if7VFj8AS_8FCHwCCqKPQ1cFo), School of Physics, The University of Melbourne (2021)
+* Gary Mooney. ["Entanglement in superconducting quantum devices and improving quantum circuit compilation"](https://minerva-access.unimelb.edu.au/items/a7ae6399-00a8-4082-a2b9-b4858bf246f7?fbclid=IwAR1j8c9-rBzkhYxOCF2xZpVk8WJea3t8u-if7VFj8AS_8FCHwCCqKPQ1cFo), School of Physics, The University of Melbourne (2022)
 
 <h2>Papers:</h2>
 
