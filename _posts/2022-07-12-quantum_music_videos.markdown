@@ -23,7 +23,7 @@ Check out our showcase [video](https://github.com/garymooney/qmuvi/blob/main/qMu
 
 <img style="display: block; margin-left: auto; margin-right: auto;" src="/assets/images/qiskit-hackathon-melbourne-2022-winners.png" width="80%">
 
-qMuVi was originally created for the [IBM Qiskit Hackathon Melbourne 2022](https://github.com/quantum-melbourne/qiskit-hackathon-22). It won first place by the judges and also won the community vote. From left to right, our team was Yang Yang, myself (team leader), Harish Vallury, and Gan Yu Pin.
+qMuVi was originally created for the [IBM Qiskit Hackathon Melbourne 2022](https://github.com/quantum-melbourne/qiskit-hackathon-22). It won first place by the judges and also won the community vote. From left to right, our team was Yang Yang, myself, Harish Vallury, and Gan Yu Pin.
 
 The project is still in active development by Harish and myself.
   
