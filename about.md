@@ -20,10 +20,13 @@ Day to day I mostly write Python (Qiskit), use Mathematica and MATLAB for analys
 ### Games and side projects
 Making games has been a passion of mine since I was young. I taught myself programming with [Game Maker](https://www.yoyogames.com/gamemaker), back before YouTube tutorials were really a thing, and later completed an advanced diploma in game development (programming) at [AIE](https://aie.edu.au/) in Melbourne.
 
-Since then I've designed the mechanics for a published card game, [Wily Woylies](https://www.coey.au), made a small roguelike puzzle game with friends, [Carnival Madness](https://garymooney.itch.io/carnival-madness), and most recently built [FlowMenu](https://flowmenu.au), a site for discovering events in Melbourne. See the [projects page]({{ site.url }}/projects) for more.
+Since then I've designed the mechanics for a published card game, [Wily Woylies]({{ site.url }}/wily_woylies), made a small roguelike puzzle game with friends, [Carnival Madness](https://garymooney.itch.io/carnival-madness), and most recently built [FlowMenu](https://flowmenu.au), a site for discovering events in Melbourne. See the [projects page]({{ site.url }}/projects) for more.
 
 ### Bouldering and sport climbing
 I tried bouldering at the start of 2021 and fell in love with it. It's like solving puzzles with your body while doing yoga and parkour on a wall. There's something about it that just feels right. Some of my climbing videos are on Instagram at [@_garymooney](https://www.instagram.com/_garymooney/).
+
+### What I'm looking for
+I'm open to roles in quantum computing research or in AI-accelerated product development. I enjoy academic research, but I'm especially interested in joining a company where the algorithms I develop can reach real users and deliver value quickly.
 
 ### Get in touch
 The best way to reach me is by [email](mailto:{{ site.email }}) or on [LinkedIn](https://www.linkedin.com/in/{{ site.linkedin }}). My CV is available on request.

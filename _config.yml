@@ -71,7 +71,7 @@ show-author: true
 post-advance-links: []
 
 # fade-in animation on the home header
-animation: true
+animation: false
 
 plugins:
   - jekyll-seo-tag

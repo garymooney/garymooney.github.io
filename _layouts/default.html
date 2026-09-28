@@ -36,11 +36,7 @@ layout: compress
         {% if page.layout == "post" %}
             <div class="post">
         {% else %}
-            {% if showHeader != true %}
-                <div class="page {{ page.title | downcase }}">
-            {% else %}
-                <div class="{{ page.title | downcase }}">
-            {% endif %}
+            <div class="page {{ page.title | downcase }}">
         {% endif %}
 
             {{ content }}

@@ -1,26 +1,18 @@
-<nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">
+<nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}" aria-label="Main">
     <ul class="list">
-        {% if page.title != "Home" %}
-            <li class="item"><a class="link" href="{{ site.url }}/">Home</a></li>
-            <li class="item">|</li>
-        {% endif %}
-
         {% if site.research == true %}
-            <li class="item"><a class="link" href="{{ site.url }}/research">Research</a></li>
-            <li class="item">|</li>
+            <li class="item"><a class="link{% if page.url == '/research/' %} active{% endif %}" href="{{ site.url }}/research">Research</a></li>
         {% endif %}
 
         {% if site.projects == true %}
-            <li class="item"><a class="link" href="{{ site.url }}/projects">Projects</a></li>
-            <li class="item">|</li>
+            <li class="item"><a class="link{% if page.url == '/projects/' or page.projects %} active{% endif %}" href="{{ site.url }}/projects">Projects</a></li>
         {% endif %}
 
         {% if site.about == true %}
-            <li class="item"><a class="link" href="{{ site.url }}/about">About</a></li>
+            <li class="item"><a class="link{% if page.url == '/about/' %} active{% endif %}" href="{{ site.url }}/about">About</a></li>
         {% endif %}
 
         {% if site.resume == true %}
-            <li class="item">|</li>
             <li class="item">
                 <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">CV</a>
             </li>
