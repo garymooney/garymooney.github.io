@@ -22,7 +22,7 @@
         {% include nav.html %}
     </header>
 
-    {% if page.layout == "page" and page.title != "About" %}
+    {% if page.layout == "page" and page.title != "About" and page.url != "/404.html" %}
         <h1 class="page-title">{{ page.title }}</h1>
     {% endif %}
 {% endif %}
