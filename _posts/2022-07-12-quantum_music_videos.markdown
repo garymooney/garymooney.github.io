@@ -16,7 +16,7 @@ externalLink: false
   <figcaption>A frame from a qMuVi video. The circuit runs along the top, the bar charts show the probability of each basis state, colours show phase, and the gauge on the right tracks fidelity.</figcaption>
 </figure>
 
-qMuVi is an open-source Python library that turns [Qiskit](https://www.ibm.com/quantum/qiskit) quantum circuits into music videos. It's available on [PyPI](https://pypi.org/project/qmuvi/) and is part of the [IBM Qiskit Ecosystem](https://www.ibm.com/quantum/ecosystem).
+[qMuVi](https://github.com/garymooney/qmuvi) is an open-source Python library that turns [Qiskit](https://www.ibm.com/quantum/qiskit) quantum circuits into music videos. It's available on [PyPI](https://pypi.org/project/qmuvi/) and is part of the [IBM Qiskit Ecosystem](https://www.ibm.com/quantum/ecosystem).
 
 Quantum computing is notoriously unintuitive and hard to picture. qMuVi tries to connect a human observer to what's happening inside a quantum computation. By turning circuits into music videos, it lets you "hear" and "see" how a quantum state evolves as an algorithm runs.
 
