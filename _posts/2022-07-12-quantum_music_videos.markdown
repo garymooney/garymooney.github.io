@@ -2,8 +2,9 @@
 title: "qMuVi: <b>q</b>uantum <b>Mu</b>sic <b>Vi</b>deo tool"
 layout: post
 date: 2022-07-12 17:00
-image: /assets/images/qmuvi-logo-white-middle.png
-headerImage: false
+image: /assets/images/qmuvi-thumb.jpg
+headerImage: true
+headerImageSrc: /assets/images/qmuvi-logo-white-middle.png
 projects: true
 hidden: true
 description: "An open-source Python library that turns quantum circuits into music videos. It won 1st place at the Qiskit Hackathon Melbourne 2022 and is now part of the IBM Qiskit Ecosystem."
