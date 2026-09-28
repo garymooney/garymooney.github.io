@@ -14,6 +14,7 @@
     --border: #e1ded8;
     --highlight: #e9e4fa;
     --hero-opacity: .14;
+    --art-bg: #efe8da;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -30,5 +31,6 @@
         --border: #2c2f36;
         --highlight: #2b2640;
         --hero-opacity: .22;
+        --art-bg: #2e2b27;
     }
 }

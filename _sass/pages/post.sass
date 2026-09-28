@@ -39,6 +39,38 @@
         a
             text-decoration: none
 
+    .post-figure
+        margin: 30px 0
+        text-align: center
+
+        > figcaption
+            top: 0
+            margin-top: 10px
+            font-size: 1.4rem
+
+    // game sprites on a subtle warm panel so the dark outlines stand out
+    .sprite-row
+        display: flex
+        flex-wrap: wrap
+        justify-content: center
+        align-items: center
+        gap: 18px
+        padding: 24px 16px
+        margin-bottom: 30px
+        border-radius: 8px
+        background: var(--art-bg)
+
+        > img
+            height: 64px
+            width: auto
+            border-radius: 0
+
+            &.feature
+                height: 150px
+
+    .post-figure > .sprite-row
+        margin-bottom: 0
+
     .post-photo
         display: block
         width: 100%

@@ -15,6 +15,6 @@ externalLink: false
 
 Wily Woylies is a cheeky two-player game of bluffing and guessing, published by [COEY Games](https://www.coey.au). You play as a woylie, a small and endangered Australian marsupial, and try to outsmart your opponent by hiding sandalwood nuts and guessing where theirs are hidden.
 
-It's quick to learn and designed for ages 5 and up, so it works well for a parent and child playing together while still having real tension around risk and reward. The game comes with six playing cards, an instruction booklet and 30 fair-trade felt tokens.
+It's quick to learn and designed for ages 5 and up, so it works well for a parent and child playing together while still having real tension around risk and reward.
 
 I designed the game mechanics.
