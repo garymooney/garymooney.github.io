@@ -111,22 +111,25 @@ pre > code,
 tt
 	padding: 1px 0
 	font-family: $fontMonospace
-	font-size: 12px
-	line-height: 20px
-	background: $omega
+	font-size: 14px
+	line-height: 22px
+	background: transparent
 	border-radius: 2px
 
 pre
 	box-sizing: border-box
 	margin: 0 0 1.75em 0
 	width: 100%
-	padding: 5px 10px
+	padding: 12px 16px
 	font-family: $fontMonospace
 	font-size: 1.2rem
 	line-height: 2rem
 	overflow: auto
-	background: $omega
-	border: 1px solid $epsilon
+	// always dark: the syntax highlighting colours are designed for a dark background
+	background: #1b1d21
+	color: #cdd0d5
+	border: 1px solid #2c2f36
+	border-radius: 8px
 	border-radius: 2px
 
 .wrapper-normal,

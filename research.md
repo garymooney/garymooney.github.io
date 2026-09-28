@@ -13,7 +13,7 @@ I've run experiments on both superconducting (IBM Quantum) and ion-trap (Quantin
 
 <figure class="research-figure">
   <img src="/assets/images/aqc_graphic-topdown.webp" alt="Particle visualisation of a complete graph embedded onto a quantum annealing architecture" loading="lazy">
-  <figcaption><b>Fig.</b> "Optimal embedding of a complete graph onto a quantum annealing architecture with nearest-neighbour couplings", my entry in the <a href="https://www.cqc2t.org/">CQC2T</a> Quantum Graphics Competition (2018). It shows a modified simulated annealing algorithm I wrote during my master's degree, rendered with Unity's Visual Effect Graph particle systems. Each node is a qubit, and qubits can only interact with their nearest neighbours on the grid, so a problem variable is represented by a cluster of connected qubits. Each cluster is drawn in one colour. The goal is to colour the clusters so that every coloured cluster connects to every other one, using as few nodes as possible.</figcaption>
+  <figcaption><b>Fig.</b> "Optimal embedding of a complete graph onto a quantum annealing architecture with nearest-neighbour couplings", my entry in the CQC2T Quantum Graphics Competition (2018). It shows a modified simulated annealing algorithm I wrote during my master's degree, rendered with Unity's Visual Effect Graph particle systems. Each node is a qubit, and qubits can only interact with their nearest neighbours on the grid, so a problem variable is represented by a cluster of connected qubits. Each cluster is drawn in one colour. The goal is to colour the clusters so that every coloured cluster connects to every other one, using as few nodes as possible.</figcaption>
 </figure>
 
 ## Highlights

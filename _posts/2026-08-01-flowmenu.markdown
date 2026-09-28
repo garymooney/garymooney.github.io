@@ -11,7 +11,7 @@ category: project
 externalLink: false
 ---
 
-![The FlowMenu website showing tonight's top picks](/assets/images/flowmenu-screenshot.jpg)
+![The FlowMenu website showing tonight's top picks](/assets/images/flowmenu-screenshot.webp)
 
 [FlowMenu](https://flowmenu.au) answers a simple question: *what's on in Melbourne this week that I'd actually enjoy?* It brings together events from across the city, works out what each one is really like, and ranks them against your preferences. It's a solo side project that I design, build and run myself.
 
