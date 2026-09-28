@@ -23,6 +23,10 @@ defaults:
       hidden: false
       author: garymooney
 
+# search engine ownership verification (jekyll-seo-tag adds the meta tags)
+webmaster_verifications:
+  google: hVkuBVrpQY11USu2G6QO4pDwVkO-usbcxGYnURt_L50
+
 # structured data for search engines (jekyll-seo-tag)
 social:
   name: Gary Mooney
