@@ -15,7 +15,7 @@ This site collects my research and the projects I've shared online.
 ### Research
 I'm a research fellow in quantum computing at the University of Melbourne, where I also did my PhD (2022). I work on benchmarking entanglement on IBM Quantum and Quantinuum hardware, compiling quantum circuits more efficiently, and quantum optimisation, including a collaboration with Ford Motor Company on problems from automotive manufacturing. I also help run the university's IBM Quantum Hub and lecture in the master's subject *Introduction to Quantum Computing*. There's more on the [research page]({{ site.url }}/research).
 
-Day to day I mostly write Python (Qiskit), with some C#, C/C++ and GPU-accelerated simulation on HPC clusters.
+Day to day I mostly write Python (Qiskit), use Mathematica and MATLAB for analysis, and write papers in LaTeX. I also program in C# and C/C++.
 
 ### Games and side projects
 Making games has been a passion of mine since I was young. I taught myself programming with [Game Maker](https://www.yoyogames.com/gamemaker), back before YouTube tutorials were really a thing, and later completed an advanced diploma in game development (programming) at [AIE](https://aie.edu.au/) in Melbourne.

@@ -23,6 +23,6 @@ Check out our showcase [video](https://github.com/garymooney/qmuvi/blob/main/qMu
 
 <img style="display: block; margin-left: auto; margin-right: auto;" src="/assets/images/qiskit-hackathon-melbourne-2022-winners.jpg" width="80%" alt="The qMuVi team with their hackathon award">
 
-qMuVi was originally created for the [IBM Qiskit Hackathon Melbourne 2022](https://github.com/quantum-melbourne/qiskit-hackathon-22), where it won first place from the judges and the community vote. I came up with the idea and led the team. From left to right, our team was Yang Yang, myself, Harish Vallury, and Gan Yu Pin. The project was featured on the [IBM Qiskit Blog](https://medium.com/qiskit/turning-quantum-states-into-music-at-australias-first-ever-qiskit-hackathon-25da7f09d226).
+qMuVi was originally created for the [IBM Qiskit Hackathon Melbourne 2022](https://github.com/quantum-melbourne/qiskit-hackathon-22), where it won first place from the judges and the community vote. I was the team lead. From left to right, our team was Yang Yang, myself, Harish Vallury, and Gan Yu Pin. The project was featured on the [IBM Qiskit Blog](https://medium.com/qiskit/turning-quantum-states-into-music-at-australias-first-ever-qiskit-hackathon-25da7f09d226).
 
 More info on GitHub: <https://github.com/garymooney/qmuvi>
