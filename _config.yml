@@ -1,14 +1,14 @@
 # main text of home
 name: Gary Mooney
-bio: Hello and welcome! I'm Gary, a quantum computing researcher and game developer who likes to climb rocks.
+bio: Quantum computing research fellow at the University of Melbourne. I also make games and like to climb rocks.
 
 # twitter summary info
-description: Hello and welcome! I'm Gary, a quantum computing researcher and game developer who likes to climb rocks.
+description: Gary Mooney is a quantum computing research fellow at the University of Melbourne working on entanglement benchmarking, quantum circuit compilation and quantum optimisation. He also makes games.
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/gary-dp.png
+picture: assets/images/gary-dp.webp
 
 # your site color theme, false to light theme
 dark-theme: true
@@ -17,7 +17,7 @@ dark-theme: true
 # and specify source (external or local).
 resume: false
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: # link to a CV here if you ever want the nav item
 
 url: https://garymooney.github.io
 # your url: https://USERNAME.github.io
@@ -29,24 +29,23 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: github # enter this from your disqus account
-  categories: [project] # only show disqus for posts that have these categories
+  shortname: # enter this from your disqus account
+  categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: _garymooney
 instagram: _garymooney
 linkedin: gary-mooney-346687b0/
 github: garymooney
+google-scholar: s2VFDloAAAAJ
 email: gary.mooney4444@gmail.com
 
 authors:
   garymooney:
     name: Gary Mooney
-    bio: I'm Gary, a quantum computing researcher and game developer who likes to climb rocks.
+    bio: Quantum computing research fellow at the University of Melbourne. I also make games and like to climb rocks.
     external-image: false
-    picture: assets/images/gary-dp.png
-    twitter: _garymooney
+    picture: assets/images/gary-dp.webp
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -95,6 +94,7 @@ defaults:
       # setting all post to not hidden by default,
       # can be overridden in the front matter for a specific post
       hidden: false
+      author: garymooney
 
 plugins:
   - jekyll-seo-tag

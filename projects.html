@@ -6,11 +6,16 @@ title: Projects
     {% for post in site.posts %}
         {% if post.projects %}
             <div class="item {% if post.star %}star{% endif %}">
-                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
-                    <div style="display: flex; align-items: center;"><img width="192" style="vertical-align:middle" alt="{{ site.name }}" src="{{ site.url }}{{ post.image }}"/>&nbsp;&nbsp;&nbsp;&nbsp;<h3 class="title" style="vertical-align:middle">{{ post.title }}</h3></div>
+                <a class="url card" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+                    {% if post.image %}
+                        <img class="thumb" alt="" src="{{ site.url }}{{ post.image }}" loading="lazy"/>
+                    {% endif %}
+                    <div class="text">
+                        <h3 class="title">{{ post.title }}</h3>
+                        <p class="summary">{{ post.date | date: "%Y" }} · {{ post.description }}</p>
+                    </div>
                 </a>
             </div>
         {% endif %}
     {% endfor %}
-</section> 
+</section>

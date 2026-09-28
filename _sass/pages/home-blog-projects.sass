@@ -62,6 +62,63 @@
     .item:hover .url aside
         color: $alpha
 
+.home > .intro
+    width: 90%
+    max-width: 640px
+    margin: 50px auto 0
+
+    > .lead
+        font-size: 1.9rem
+        text-align: center
+
+    > .highlights
+        padding-left: 20px
+        margin: 30px 0
+
+        > li
+            margin-bottom: 10px
+
+    > .cta
+        text-align: center
+
+.button
+    display: inline-block
+    margin: 5px
+    padding: 10px 20px
+    border: 1px solid $epsilon
+    border-radius: 4px
+    text-decoration: none
+    transition: all ease-in-out .2s
+
+    &:hover
+        border-color: $delta
+
+.projects > .list > .item > .url.card
+    display: flex
+    align-items: center
+    gap: 20px
+
+    > .thumb
+        flex: 0 0 160px
+        width: 160px
+        height: 90px
+        object-fit: contain
+
+    > .text
+        flex: 1
+
+        > .title
+            display: block
+            margin: 0 0 5px
+
+        > .summary
+            margin: 0
+            color: $gama
+
+    @media #{$below}
+        flex-direction: column
+        align-items: flex-start
+
 .blog > .list > .item > .url,
 .projects > .list > .item > .url
     > .title

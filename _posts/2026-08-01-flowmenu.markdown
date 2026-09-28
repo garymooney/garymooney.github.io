@@ -1,0 +1,11 @@
+---
+title: "FlowMenu: Melbourne events discovery"
+layout: post
+date: 2026-08-01 12:00
+tag: web
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "An events discovery website for Melbourne, built solo with an end-to-end events data pipeline."
+category: project
+externalLink: https://flowmenu.au
+---

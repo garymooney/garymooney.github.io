@@ -2,24 +2,27 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+![Gary Mooney]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <h1 class="title">{{ site.name }}</h1>
 <h2 class="description">{{ site.bio }}</h2>
 
-<center>{% include social-links.html %}</center>
+<div class="text-center">{% include social-links.html %}</div>
 
-This site is an archive of research output and projects that I've shared online. I will eventually get around to adding some of my art as well.
+This site collects my research and the projects I've shared online.
 
 ### Research
-I've recently completed my PhD focusing on three different areas of quantum computing: benchmarking current IBM Quantum devices by generating and measuring quantum entanglement, optimising the process of mapping problems onto noisy near-term quantum devices, and exploring ways to decrease the quantum resource costs of large-scale universal fault-tolerant quantum computers. I'm now a researcher at the University of Melbourne as part of the [IBM Quantum Network Hub](https://www.unimelb.edu.au/quantumhub), collaboratively working with Ford on quantum computing approaches to combinatorial optimisation problems in the automotive industry.
+I'm a research fellow in quantum computing at the University of Melbourne, where I also did my PhD (2022). I work on benchmarking entanglement on IBM Quantum and Quantinuum hardware, compiling quantum circuits more efficiently, and quantum optimisation, including a collaboration with Ford Motor Company on problems from automotive manufacturing. I also help run the university's IBM Quantum Hub and lecture in the master's subject *Introduction to Quantum Computing*. There's more on the [research page]({{ site.url }}/research).
 
-### Game Development
-Making games has been a strong passion of mine since I was young. I taught myself programming with the help of [Game Maker](https://www.yoyogames.com/gamemaker) back when youtube and online tutorials weren't really a thing and I later completed an advanced dimploma in game development (programming) at [AIE](https://aie.edu.au/) in Melbourne. I've been learning and practicing a bunch of different aspects of game creation over the years with the aim to make my own games. I love fleshing out game ideas and collaborating with a team to make them a reality.
+Day to day I mostly write Python (Qiskit), with some C#, C/C++ and GPU-accelerated simulation on HPC clusters.
 
-In 2021, a couple of friends and I published our first game. I mean, it's a small experimental game that you can play for free on itch.io called [Carnival Madness](https://garymooney.itch.io/carnival-madness). It was heaps of fun to make and quite satisfying to finally complete and get it out there. I'm developing my next game now in a totally different style with the help of another friend. At a certain point in developing it, I'll start posting updates on my social media (probably instagram). So be sure to follow to keep up to date.
+### Games and side projects
+Making games has been a passion of mine since I was young. I taught myself programming with [Game Maker](https://www.yoyogames.com/gamemaker), back before YouTube tutorials were really a thing, and later completed an advanced diploma in game development (programming) at [AIE](https://aie.edu.au/) in Melbourne.
 
-### Bouldering and Sport Climbing
-Ever since giving bouldering a try at the start of 2021, I fell in love with the sport. It's sort of like having to solve problems using your body while doing yoga and parkour on a wall. I don't know, there's something about it that just feels right. 
+Since then I've designed the mechanics for a published card game, [Wily Woylies](https://www.coey.au), made a small roguelike puzzle game with friends, [Carnival Madness](https://garymooney.itch.io/carnival-madness), and most recently built [FlowMenu](https://flowmenu.au), a site for discovering events in Melbourne. See the [projects page]({{ site.url }}/projects) for more.
 
-You can find some of my climbing videos on instagram [@_garymooney](https://www.instagram.com/_garymooney/).
+### Bouldering and sport climbing
+I tried bouldering at the start of 2021 and fell in love with it. It's like solving puzzles with your body while doing yoga and parkour on a wall. There's something about it that just feels right. Some of my climbing videos are on Instagram at [@_garymooney](https://www.instagram.com/_garymooney/).
+
+### Get in touch
+The best way to reach me is by [email](mailto:{{ site.email }}) or on [LinkedIn](https://www.linkedin.com/in/{{ site.linkedin }}). My CV is available on request.

@@ -7,16 +7,16 @@ image: /assets/images/game_carnival_madness_heart.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "A roguelike puzzle game set in a cursed carnival."
+description: "A free roguelike puzzle game set in a cursed carnival. I was project lead, artist and co-developer."
 category: project
 #author: garymooney
 externalLink: false
 ---
 
-![Screenshot](/assets/images/game_carnival_madness_screen1.png)
+![Carnival Madness gameplay screenshot](/assets/images/game_carnival_madness_screen1.jpg)
 
-<p>Carnival Madness is a roguelike puzzle game set in a cursed carnival.</p> 
+Carnival Madness is a roguelike puzzle game set in a cursed carnival.
 
-<p>It was a fun experimental game that I worked on with my friends Jordan Atwill and Francis De Luca.</p>
+It was an experimental game I made with my friends Jordan Atwill and Francis De Luca. I led the project, made the art, and co-developed the game.
 
-It's available for free on itch.io <https://garymooney.itch.io/carnival-madness>
+It's free to play on itch.io: <https://garymooney.itch.io/carnival-madness>
