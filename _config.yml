@@ -1,5 +1,6 @@
 # site identity (also used for search results and link previews)
 title: Gary Mooney
+tagline: Quantum Computing Researcher
 name: Gary Mooney
 bio: Quantum computing research fellow at the University of Melbourne. I also make games and like to climb rocks.
 description: Gary Mooney is a quantum computing research fellow at the University of Melbourne working on entanglement benchmarking, quantum circuit compilation and quantum optimisation. He also makes games.
@@ -75,6 +76,7 @@ animation: false
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-feed
   - jemoji
 
@@ -92,4 +94,5 @@ exclude:
     "FAQ.md",
     "Rakefile",
     "vendor",
+    "*.pdf",
   ]

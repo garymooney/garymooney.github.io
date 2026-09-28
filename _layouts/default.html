@@ -36,7 +36,7 @@ layout: compress
         {% if page.layout == "post" %}
             <div class="post">
         {% else %}
-            <div class="page {{ page.title | downcase }}">
+            <div class="page {% if page.url == "/" %}home{% else %}{{ page.title | slugify }}{% endif %}">
         {% endif %}
 
             {{ content }}

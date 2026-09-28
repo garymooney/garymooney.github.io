@@ -9,7 +9,7 @@ I'm a research fellow in quantum computing at the University of Melbourne. My wo
 - **Quantum circuit compilation:** routing and mapping circuits onto real hardware so they run with fewer errors.
 - **Quantum optimisation:** applying quantum and quantum-inspired algorithms to real problems, including work with Ford Motor Company on automotive manufacturing.
 
-I've run experiments on both superconducting (IBM Quantum) and ion-trap (Quantinuum) hardware. I also help run the [IBM Quantum Hub](https://www.unimelb.edu.au/quantumhub) at the University of Melbourne. My full publication list is on [Google Scholar](https://scholar.google.com/citations?user={{ site.google-scholar }}).
+I've run experiments on both superconducting (IBM Quantum) and ion-trap (Quantinuum) hardware. I also help run the [IBM Quantum Hub](https://www.unimelb.edu.au/quantumhub) at the University of Melbourne. I publish as Gary J. Mooney, and my full publication list is on [Google Scholar](https://scholar.google.com/citations?user={{ site.google-scholar }}).
 
 <figure class="research-figure">
   <img src="/assets/images/aqc_graphic-topdown.webp" alt="Particle visualisation of a complete graph embedded onto a quantum annealing architecture" loading="lazy">
