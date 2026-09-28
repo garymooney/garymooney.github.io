@@ -12,23 +12,21 @@ layout: compress
     <meta charset="utf-8">
     <meta name=viewport content="width=device-width, initial-scale=1">
     <meta name=author content="{{ site.name }}">
+    <meta name="theme-color" content="#faf9f7" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#141518" media="(prefers-color-scheme: dark)">
 
     {% seo %}
 
     {% include favicon.html %}
 
-    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{{ "/feed.xml" }}" />
 
-    <script src="https://kit.fontawesome.com/d9b09040a7.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;700&display=swap">
 
     <style>
-    {% if site.dark-theme %}
-        {% capture scss_sheet %}{% include style-dark.scss %}{% endcapture %}
-    {% else %}
-        {% capture scss_sheet %}{% include style.scss %}{% endcapture %}
-    {% endif %}
-
+    {% capture scss_sheet %}{% include style.scss %}{% endcapture %}
     {{ scss_sheet | scssify }}
     </style>
 

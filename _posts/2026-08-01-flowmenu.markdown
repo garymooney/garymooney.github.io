@@ -2,10 +2,29 @@
 title: "FlowMenu: Melbourne events discovery"
 layout: post
 date: 2026-08-01 12:00
-tag: web
+image: /assets/images/flowmenu-thumb.jpg
+headerImage: false
 projects: true
-hidden: true # don't count this post in blog pagination
-description: "An events discovery website for Melbourne, built solo with an end-to-end events data pipeline."
+hidden: true
+description: "A weekly pipeline that scrapes Melbourne's event listings, enriches them with a local LLM and ranks them to your taste, published as an interactive website."
 category: project
-externalLink: https://flowmenu.au
+externalLink: false
 ---
+
+![The FlowMenu website showing tonight's top picks](/assets/images/flowmenu-screenshot.jpg)
+
+[FlowMenu](https://flowmenu.au) answers a simple question: *what's on in Melbourne this week that I'd actually enjoy?* It finds local events, works out what each one is really like, ranks them against a preference profile, and publishes the results as an interactive website and a weekly email. It's a solo side project that I design, build and run myself.
+
+### How it works
+
+Every week a pipeline runs these steps: **gather → extract → store → curate → render → publish**.
+
+- **Gather.** 32 scrapers cover independent venues, council calendars, arts organisations and ticketing platforms. They run in parallel, with a shared headless Chromium for sites that need a browser. Each one pages through the underlying API instead of reading "featured" lists, so smaller events aren't missed.
+- **Extract.** A two-pass LLM step writes a short summary of each event, then classifies its category, tags and price. By default it runs locally on a small open model (Qwen via Ollama), with batching and JSON repair to keep it reliable.
+- **Store.** Events go into SQLite and are deduplicated across sources. Events that disappear from listings are marked as unlisted rather than deleted.
+- **Curate.** Ranking is deterministic, with no LLM in the loop. It combines category and suburb preferences, embedding-similarity "vibe" scores, a diversity step so the list isn't all one kind of event, and a minimum-score cutoff.
+- **Render and publish.** The website re-ranks events live in the browser as you adjust preferences in the settings. It also has a map view. The same data produces an email-friendly version and a weekly archive.
+
+### Built with
+
+Python, SQLite, headless Chromium, Ollama with local LLMs (Qwen), Qwen3 text embeddings, and a JavaScript/CSS front end hosted on GitHub Pages.

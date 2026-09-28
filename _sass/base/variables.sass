@@ -1,16 +1,23 @@
-$fontSans: "Helvetica Neue", Helvetica, Arial, sans-serif
+// Colours are CSS custom properties (defined in base/theme) so the site can
+// follow the visitor's light/dark preference. The Greek names are the Indigo
+// theme's originals:
+//   alpha = body text, beta = headings, gama = secondary text,
+//   delta = links/accent, epsilon = borders, omega = page background,
+//   zeta = emphasised text, kappa = text highlight background
+$alpha: var(--text)
+$beta: var(--heading)
+$gama: var(--muted)
+$delta: var(--accent)
+$epsilon: var(--border)
+$omega: var(--bg)
+$zeta: var(--strong)
+$kappa: var(--highlight)
+
+$fontSans: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif
+$fontDisplay: "Space Grotesk", "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif
 $fontMonospace: "Consolas", Liberation Mono, Menlo, Courier, monospace
 
-$alpha: #666
-$beta: #222
-$gama: #aaa
-$delta: #4b0082
-$epsilon: #ededed
-$omega: #fff
-$zeta: #000
-$kappa: #27f36a26
-
-$thin-font: 300
+$thin-font: 400
 
 $mobile: "only screen and (max-width: 400px)"
 $tablet: "only screen and (min-width: 400px) and (max-width: 1050px)"

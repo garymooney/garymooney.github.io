@@ -1,4 +1,5 @@
 ---
+description: Software, games and side projects by Gary Mooney, including qMuVi, FlowMenu and Carnival Madness.
 layout: page
 title: Projects
 ---
@@ -7,8 +8,10 @@ title: Projects
         {% if post.projects %}
             <div class="item {% if post.star %}star{% endif %}">
                 <a class="url card" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                    {% if post.image %}
+                    {% if post.image and post.image != site.defaults[0].values.image %}
                         <img class="thumb" alt="" src="{{ site.url }}{{ post.image }}" loading="lazy"/>
+                    {% else %}
+                        <span class="thumb placeholder" aria-hidden="true">{{ post.title | split: ':' | first }}</span>
                     {% endif %}
                     <div class="text">
                         <h3 class="title">{{ post.title }}</h3>

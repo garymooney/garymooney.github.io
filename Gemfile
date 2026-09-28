@@ -1,14 +1,12 @@
 source 'https://rubygems.org'
 
+# github-pages pins Jekyll and the plugins to the versions GitHub Pages uses
 group :jekyll_plugins do
     gem 'github-pages'
-    gem 'jekyll-admin'
     gem 'jekyll-seo-tag'
-    gem 'jekyll-gist'
     gem 'jekyll-feed'
     gem 'jemoji'
-    gem "jekyll-paginate-v2", "~> 2.0"
-    gem "html-proofer"
 end
 
+gem "html-proofer"
 gem "webrick", "~> 1.7"

@@ -1,6 +1,9 @@
 .page
     margin-top: 125px
 
+    > .header-home
+        margin-bottom: 50px
+
     > h1
         text-align: center
         margin-bottom: 6rem
@@ -10,7 +13,9 @@
     text-align: center
 
     > img
+        display: block
         max-width: 50%
+        margin: 0 auto
 
         @media #{$below}
             max-width: 90%
@@ -19,7 +24,8 @@
         font-size: 1.4rem
         line-height: 1.6
         color: $gama
-        margin-top: 10px
+        margin-top: 30px
+        top: 0
 
 .summary
     color: $gama
@@ -27,7 +33,12 @@
 
 .about
     img
-        width: 50%
+        width: 180px
+        height: 180px
+        object-fit: cover
+        border-radius: 100%
+        border: 3px solid $omega
+        box-shadow: 0 0 0 1px $epsilon, 0 8px 30px rgba(0, 0, 0, .25)
         margin: 0 auto
         display: block
 

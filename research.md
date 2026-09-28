@@ -1,4 +1,5 @@
 ---
+description: Research, publications and talks by Gary Mooney on entanglement benchmarking, quantum circuit compilation and quantum optimisation.
 title: Research
 layout: page
 ---

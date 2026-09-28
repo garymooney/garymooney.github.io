@@ -29,7 +29,7 @@
             transition: all .4s ease-in-out
             
             &:hover
-                color: $alpha
+                color: var(--accent-hover)
 
 
 .nav-home
@@ -45,4 +45,9 @@
             transition: all .4s ease-in-out
 
             &:hover
-                color: $alpha
+                color: var(--accent-hover)
+
+.nav > .list > .item,
+.nav-home > .list > .item
+    color: $epsilon
+

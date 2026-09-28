@@ -1,0 +1,34 @@
+// Light palette by default; dark palette when the visitor's system prefers it.
+// All text colours meet WCAG AA contrast against their background.
+// (SCSS rather than .sass because the indented syntax can't start a line with ":root".)
+:root {
+    color-scheme: light;
+    --bg: #faf9f7;
+    --surface: #f1efeb;
+    --text: #3b3e45;
+    --heading: #16181c;
+    --strong: #16181c;
+    --muted: #686d76;
+    --accent: #5a45ad;
+    --accent-hover: #3f2d8a;
+    --border: #e1ded8;
+    --highlight: #e9e4fa;
+    --hero-opacity: .14;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        color-scheme: dark;
+        --bg: #141518;
+        --surface: #1b1d21;
+        --text: #cdd0d5;
+        --heading: #f0f1f3;
+        --strong: #eceef1;
+        --muted: #8d929b;
+        --accent: #b0a3e8;
+        --accent-hover: #cfc6f5;
+        --border: #2c2f36;
+        --highlight: #2b2640;
+        --hero-opacity: .22;
+    }
+}

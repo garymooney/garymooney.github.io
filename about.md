@@ -1,4 +1,5 @@
 ---
+description: About Gary Mooney, a quantum computing researcher at the University of Melbourne who also makes games and climbs.
 title: About
 layout: page
 ---
